@@ -7,4 +7,6 @@ Adquirir os conceitos e as técnicas fundamentais da programação centrada em o
 Estes conceitos e técnicas são apresentados tendo como linguagem de programação base o Java.
 
 ## Projeto
-Ler README.pdf ->
+##### Ler README.pdf -> https://github.com/Marcos-Sousa-Developer/2-ano-Programacao-Centrada-Objetos/blob/master/README.pdf
+
+#### Nota: 16.7
