@@ -9,5 +9,6 @@ Estes conceitos e técnicas são apresentados tendo como linguagem de programaç
 
 ## Projeto
 ##### Ler README.pdf -> https://github.com/Marcos-Sousa-Developer/2-ano-Programacao-Centrada-Objetos/blob/master/README.pdf
+Este projeto é dividido em 3 Fases, mas apenas interesse a última parte, por conter todo o conteúdo.
 
 #### Nota: 18.1
