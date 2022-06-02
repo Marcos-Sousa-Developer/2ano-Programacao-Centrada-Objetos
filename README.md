@@ -1,4 +1,4 @@
-# Projeto de 2ºano, "Viajem por Sistema Solar"
+# Projeto de 2ºano, "Viajem por um Sistema Solar"
 Projeto de 2ºano, do curso de Tecnologias de Informação
 
 Cadeira: Programação Centrada a Objetos
